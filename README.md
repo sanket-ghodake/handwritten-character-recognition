@@ -69,7 +69,6 @@ Different trained models are of types:
 4. Letters (small +capital merged classes)
 5. Digits+Capital Letters 
 
-
 ## References
 1. [Build a Handwritten Text Recognition System using TensorFlow](https://towardsdatascience.com/2326a3487cd5)
 2.  [Handwritten Text Recognition (HTR) system implemented with TensorFlow](https://github.com/githubharald/SimpleHTR)
