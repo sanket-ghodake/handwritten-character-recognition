@@ -46,11 +46,18 @@ The line is segmented into words first. Then each word is segmented into individ
 *Word segmentation into characters*
 
 ### Prediction 
-Predicting each character image on pre-trained models.
+Predicting each character image on pre-trained models. Choose a model according to text type.
 
 <img src="./doc/result.jpg" title="Predicted output" width="500"/>
 
 *Predicted output*
+
+### HCR results 
+
+<img src="./doc/results/results (1).jpeg" title="HCR Results" width="225"/> <img src="./doc/results/results (2).jpeg" title="HCR Results" width="225"/> <img src="./doc/results/results (3).jpeg" title="HCR Results" width="225"/> <img src="./doc/results/results (4).jpeg" title="HCR Results" width="225"/>
+<img src="./doc/results/results (5).jpeg" title="HCR Results" width="225"/> <img src="./doc/results/results (6).jpeg" title="HCR Results" width="225"/> <img src="./doc/results/results (7).jpeg" title="HCR Results" width="225"/>
+
+*HCR results*
 
 ### Model training
 [Models](./models) are trained on  [MNIST](https://www.tensorflow.org/datasets/catalog/mnist) and [EMNIST](https://www.tensorflow.org/datasets/catalog/emnist) datasets. This datasets have gray scale images (28X28 pixels). Pre-trained models are trained on different custom datasets. 
