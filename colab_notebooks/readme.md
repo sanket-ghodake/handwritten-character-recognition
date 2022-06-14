@@ -1,1 +1,1 @@
-Different colab notebooks related handwritten character recognition
+Different colab notebooks related to handwritten character recognition.
